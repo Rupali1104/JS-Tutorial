@@ -55,3 +55,30 @@ console.log(typeof outsideTemp); //object
 //        Arrays  =>  object
 //        Function  =>  function
 //        Object  =>  object
+
+// ***********************************
+// Memory
+// Stack-(Primitive)
+// Heap-(Non- Primitive)
+
+// stack
+let myYoutubename = "xgfsgdhjj"
+
+let anothername = myYoutubename
+anothername = "rupali12334"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+// heap
+let userOne = {
+    email: "user@google.com",
+    upi: "user@tyu"
+}
+
+let userTwo = userOne
+
+userTwo.email = "rupali@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
