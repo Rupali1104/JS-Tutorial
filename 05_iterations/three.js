@@ -3,13 +3,14 @@
 // ["", "", ""] - strings in array
 // [{}, {}, {}] - objects in array
 
+// array iterable in for of loop
 const arr = [1, 2, 3, 4, 5]
 
 for (const num of arr) {
     // console.log(num);
 }
 
-
+// string iterable in for of loop
 const greetings = "Hello World!"
 
 for (const greet of greetings) {
