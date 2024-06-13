@@ -1,8 +1,7 @@
 # Projects related to DOM
 
 ## project link
-https://stackblitz.com/edit/dom-project-chaiaurcode?file=1-colorChanger%2Fchaiaurcode.js
-
+https://stackblitz.com/edit/dom-project-chaiaurcode-sbt2ym?file=4-GuessTheNumber%2Fchaiaurcode.js
 # solution code 
 
 ## project 1
